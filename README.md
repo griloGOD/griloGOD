@@ -52,11 +52,3 @@
 </div>
 
 ###
-
-<h2 align="left">Commits</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/griloGOD/griloGOD/output/snake.svg" alt="Snake animation" />
-
-###
